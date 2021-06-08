@@ -1,0 +1,179 @@
+.top-div {
+    background-color: #deeeea;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 90px;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Mate', serif;
+
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 70px;
+    color: #39a6a3;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #39a6a3;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    color: #39a6a3;
+}
+
+.bottom_cloud {
+    position: absolute;
+    left: 250px;
+    width: 14%;
+}
+
+.top_cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 15%;
+}
+
+.rd {
+    font-family: 'Stalemate', cursive;
+}
+
+p {
+    font-family: 'Mate', serif;
+    font-size: 18px;
+    line-height: 2;
+
+}
+
+.chille {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.computer {
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.needofrd {
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #39a6a3;
+    
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 100px auto;
+
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 60px;
+    border-color: #39a6a3;
+    padding-bottom: 80px;
+}
+
+.profile {
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.skills {
+    padding-bottom: 80px;
+}
+
+.land {
+    padding-top: 80px;
+}
+
+.dp {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.profile-txt {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-txt {
+    margin: 40px auto 40px;
+    width: 50%;
+}
+
+.h3contact {
+    margin: 40px auto;
+}
+
+.btn {
+    -webkit-border-radius: 3;
+    -moz-border-radius: 3;
+    border-radius: 3px;
+    font-family: 'Roboto', sans-serif;
+    color: #186663;
+    font-size: 18px;
+    background: #37b8b2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #39a6a3;
+    text-decoration: none;
+  }
+
+  .bottom-container {
+      margin-top: 100px;
+      margin-bottom: 0px;
+      background-color: #deeeea;
+      padding: 50px 0 50px;
+  }
+
+  .cc {
+      margin-top: 30px;
+      margin-bottom: 0px;
+      color: #39a6a3;
+      font-size: 15px;
+
+  }
+
+  .footer-link {
+    margin-top: 100px;  
+    padding: 100px auto 100px;
+  }
+
+  a {
+     padding: 10px 10px 20px 10px;
+     color: #39a6a3;
+     font-family: 'Mate', serif;
+     text-decoration: none;
+  }
+
+  a:hover {
+      color: #1c706d;
+  }
+
+.my-skills {
+    font-size: 40px;
+    padding-bottom: 30px;
+}
